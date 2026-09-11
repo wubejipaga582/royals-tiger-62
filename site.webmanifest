@@ -1,0 +1,19 @@
+{
+  "name": "ROYALSTIGER Casino Deutschland | >$700 + 310 FS",
+  "short_name": "ROYALSTIGER",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#2dd4bf",
+  "background_color": "#191d24",
+  "display": "standalone"
+}
